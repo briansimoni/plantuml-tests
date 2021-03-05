@@ -1,0 +1,6 @@
+{
+    "plantuml.includepaths": [
+        "docs/diagrams/style","docs/diagrams/src"
+    ],
+    "plantuml.exportOutDir": "docs/diagrams/out"
+}
